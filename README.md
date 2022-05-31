@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anwangari
-- 👀 I’m interested in web development, data and cloud
-- 🌱 I’m currently learning the basics of coding from edX (CS50x)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science, machine learining and AI
+- 🌱 I’m currently learning coding from edX (CS50x)
+- 💞️ I’m looking to collaborate on data science and machine learning projects
 - 📫 Reach me at antonnm7@gmail.com
 
 <!---
