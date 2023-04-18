@@ -8,3 +8,6 @@ The script first extracts the user name, user id, and home directory path of eac
 Next, the script transforms the extracted data into CSV format by replacing the ':' delimiter with a ',' delimiter using the 'tr' command. The transformed data is then saved to a CSV file named "transformed-data.csv".
 
 Finally, the script loads the transformed data from the CSV file into a table called 'users' in the PostgreSQL database. This is done using the 'psql' command and the COPY command to copy the data from the CSV file into the table.
+
+
+There's an article about the same on my medium page, [here](https://medium.com/@anwangari/a-begginers-guide-to-etl-using-shell-scripts-bb488029463d).
