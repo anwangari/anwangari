@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anwangari
-- 👀 I’m interested in data management, and cloud computing
-- 🌱 edX (CS50x), Worldquant University (Data Science Lab), Azubi Africa (AWS re/Start)
-- 💞️ I’m looking to collaborate on data science and machine learning projects
+- 👋 Hi, I’m @anwangari.
+- 👀 I’m interested in data management.
+- 🌱 I specialize in harnessing data analysis and programming skills to enhance operational efficiency within the Financial Industry.
+- 💞️ Looking to collaborate on data science and machine learning projects.
 - 📫 Reach me at antonnm7@gmail.com
 
 <!---
