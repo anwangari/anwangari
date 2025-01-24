@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @anwangari.
-- 👀 I’m interested in data management.
-- 🌱 I specialize in harnessing data analysis and programming skills to enhance operational efficiency within the Financial Industry.
-- 💞️ Looking to collaborate on data science and engineering projects.
-- 📫 Reach me at antonnm7@gmail.com
+### 👋 Hello! I'm Anthony Njuguna Wangari (@anwangari)
+
+💡 **Interests**: Passionate about data management, analytics, and engineering.  
+🌱 **Expertise**: I specialize in leveraging data analysis and programming to drive operational efficiency, particularly within the financial industry.  
+🖥️ **Learning**: Currently expanding my skills in web development.  
+🤝 **Collaboration**: Open to collaborating on innovative data science, engineering, analytics, and web development projects.
+
+📧 **Let's connect**:  
 
 <!---
 anwangari/anwangari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
